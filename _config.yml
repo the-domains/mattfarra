@@ -1,0 +1,28 @@
+name: MattFarra
+favicon: null
+layout_spectrum: 0.1763843244407326
+typography_spectrum: 0.0547335313167423
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.19035319448448718
+  lightness: 0.06400607386603951
+  saturation: 0.44032131507992744
+  rhythmicContrast: 0.7589363870210946
+purpose: []
